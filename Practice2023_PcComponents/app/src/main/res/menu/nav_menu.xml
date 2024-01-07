@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/catalogueFragment"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="Каталог" />
+    <item
+        android:id="@+id/cartFragment"
+        android:title="Корзина"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"/>
+    <item
+        android:id="@+id/settingsFragment"
+        android:title="Настройки"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+</menu>

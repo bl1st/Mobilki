@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Measurements"
+        android:id="@+id/Measurements"
+        android:icon="@drawable/measurements"
+        />
+    <item android:title="Counters"
+        android:id="@+id/Counters"
+        android:icon="@drawable/counters"
+        />
+    <item android:title="Locations"
+        android:id="@+id/Locations"
+        android:icon="@drawable/locations"
+        />
+    <item android:title="Rates"
+        android:id="@+id/Rates"
+        android:icon="@drawable/rates"
+        />
+
+</menu>

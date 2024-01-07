@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">balanin493_Practice</string>
+    <string name="app_title">Easy Finance</string>
+    <string name="authorizationWindow_title">Авторизация</string>
+    <string name="registrationWindow_title">Регистрация</string>
+    <string name="tv_Authorization_Login">Логин:</string>
+    <string name="tv_Authorization_Password">Пароль:</string>
+    <string name="btn_Authorization_Login">Войти</string>
+    <string name="btn_Authorization_Registration">Регистрация</string>
+    <string name="btn_Registration_Register">Зарегистрироваться</string>
+    <string name="check_Authorization_RememberMe">Запомнить меня</string>
+    <string name="dbName">EasyFinanceDb</string>
+
+    <string name="app_shortDesc">Ведите учет своих денег</string>
+
+</resources>

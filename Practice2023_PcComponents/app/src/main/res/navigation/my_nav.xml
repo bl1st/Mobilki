@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/catalogueFragment">
+    <fragment
+        android:id="@+id/catalogueFragment"
+        android:name="com.example.practice2023_pccomponents.CatalogueFragment"
+        android:label="fragment_catalogue"
+        tools:layout="@layout/fragment_catalogue" />
+    <fragment
+        android:id="@+id/cartFragment"
+        android:name="com.example.practice2023_pccomponents.CartFragment"
+        android:label="fragment_cart"
+        tools:layout="@layout/fragment_cart" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.practice2023_pccomponents.SettingsFragment"
+        android:label="SettingsFragment" />
+</navigation>

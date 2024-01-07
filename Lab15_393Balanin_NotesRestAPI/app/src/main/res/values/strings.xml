@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab15_393Balanin_NotesRestAPI</string>
+    <string name="tv_login">Login:</string>
+    <string name="tv_password">Password:</string>
+    <string name="check_rememberme">Remember me</string>
+    <string name="btn_signin">Sign in</string>
+    <string name="btn_signup">Sign up</string>
+
+
+    <string name="btn_OK">Ok</string>
+    <string name="btn_Cancel">Cancel</string>
+
+    <string name="btn_AddNote">Add Note</string>
+    <string name="btn_LogOut">Log Out</string>
+
+    <string name="tv_NoteTitle">Note title:</string>
+    <string name="tv_NoteBody">Note body:</string>
+    <string name="btn_Close">Close</string>
+    <string name="btn_Save">Save</string>
+    <string name="btn_Delete">Delete</string>
+
+
+</resources>
